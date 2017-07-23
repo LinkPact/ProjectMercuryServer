@@ -1,2 +1,3 @@
 # ProjectMercuryServer
-Server for Project Mercury - the social habit tracking app
+
+Server for Project Mercury - the collaborative social habit tracking app
